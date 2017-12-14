@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About neblio</source>
-        <translation>neblio Hakkında</translation>
+        <source>About cryptocoin</source>
+        <translation>cryptocoin Hakkında</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;neblio&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;neblio&lt;/b&gt; versiyonu</translation>
+        <source>&lt;b&gt;cryptocoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;cryptocoin&lt;/b&gt; versiyonu</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2017 The Neblio developers</source>
+Copyright © 2017 The CryptoCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your neblio addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Bunlar, ödeme almak için neblio adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
+        <source>These are your cryptocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Bunlar, ödeme almak için cryptocoin adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a neblio address</source>
-        <translation>Bir neblio adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
+        <source>Sign a message to prove you own a cryptocoin address</source>
+        <translation>Bir cryptocoin adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified neblio address</source>
-        <translation>Mesajın, belirli bir neblio adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify a message to ensure it was signed with a specified cryptocoin address</source>
+        <translation>Mesajın, belirli bir cryptocoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>neblio will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tokens from being stolen by malware infecting your computer.</source>
-        <translation>neblio, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
+        <source>cryptocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tokens from being stolen by malware infecting your computer.</source>
+        <translation>cryptocoin, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about neblio</source>
-        <translation>neblio hakkındaki bilgiyi göster</translation>
+        <source>Show information about cryptocoin</source>
+        <translation>cryptocoin hakkındaki bilgiyi göster</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,13 +425,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send tokens to a neblio address</source>
-        <translation>Bir neblio adresine coin gönder</translation>
+        <source>Send tokens to a cryptocoin address</source>
+        <translation>Bir cryptocoin adresine coin gönder</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for neblio</source>
-        <translation>neblio yapılandırma seçeneklerini değiştir</translation>
+        <source>Modify configuration options for cryptocoin</source>
+        <translation>cryptocoin yapılandırma seçeneklerini değiştir</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -470,8 +470,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>neblio</source>
-        <translation>neblio</translation>
+        <source>cryptocoin</source>
+        <translation>cryptocoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About neblio</source>
-        <translation>neblio &amp;Hakkında</translation>
+        <source>&amp;About cryptocoin</source>
+        <translation>cryptocoin &amp;Hakkında</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>neblio client</source>
-        <translation>neblio istemcisi</translation>
+        <source>cryptocoin client</source>
+        <translation>cryptocoin istemcisi</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to neblio network</source>
-        <translation><numerusform>neblio ağına %n etkin bağlantı</numerusform><numerusform>neblio ağına %n etkin bağlantı</numerusform></translation>
+        <source>%n active connection(s) to cryptocoin network</source>
+        <translation><numerusform>cryptocoin ağına %n etkin bağlantı</numerusform><numerusform>cryptocoin ağına %n etkin bağlantı</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -657,8 +657,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid neblio address or malformed URI parameters.</source>
-        <translation>URI ayrıştırılamadı! Bu, geçersiz bir neblio adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid cryptocoin address or malformed URI parameters.</source>
+        <translation>URI ayrıştırılamadı! Bu, geçersiz bir cryptocoin adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -717,8 +717,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. neblio can no longer continue safely and will quit.</source>
-        <translation>Önemli bir hata oluştu. neblio artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
+        <source>A fatal error occurred. cryptocoin can no longer continue safely and will quit.</source>
+        <translation>Önemli bir hata oluştu. cryptocoin artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
     </message>
 </context>
 <context>
@@ -1051,8 +1051,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid neblio address.</source>
-        <translation>Girilen %1 adresi, geçerli bir neblio adresi değildir.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid cryptocoin address.</source>
+        <translation>Girilen %1 adresi, geçerli bir cryptocoin adresi değildir.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1070,8 +1070,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>neblio-Qt</source>
-        <translation>neblio-Qt</translation>
+        <source>cryptocoin-Qt</source>
+        <translation>cryptocoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1143,13 +1143,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start neblio after logging in to the system.</source>
-        <translation>Sisteme giriş yaptıktan sonra neblio&apos;i otomatik olarak başlat</translation>
+        <source>Automatically start cryptocoin after logging in to the system.</source>
+        <translation>Sisteme giriş yaptıktan sonra cryptocoin&apos;i otomatik olarak başlat</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start neblio on system login</source>
-        <translation>Sisteme girişte neblio&apos;i &amp;başlat</translation>
+        <source>&amp;Start cryptocoin on system login</source>
+        <translation>Sisteme girişte cryptocoin&apos;i &amp;başlat</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1168,8 +1168,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the neblio client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönelticide neblio istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
+        <source>Automatically open the cryptocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönelticide cryptocoin istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1178,8 +1178,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the neblio network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>neblio ağına bir SOCKS vekil sunucusu yoluyla bağlan (örn. Tor yoluyla bağlanıldığında)</translation>
+        <source>Connect to the cryptocoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>cryptocoin ağına bir SOCKS vekil sunucusu yoluyla bağlan (örn. Tor yoluyla bağlanıldığında)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,8 +1253,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting neblio.</source>
-        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, neblio yeniden başlatıldığında etkin olacaktır.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting cryptocoin.</source>
+        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, cryptocoin yeniden başlatıldığında etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1268,8 +1268,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show neblio addresses in the transaction list or not.</source>
-        <translation>neblio adresinin işlem listesinde gösterilmesi veya gösterilmemesi</translation>
+        <source>Whether to show cryptocoin addresses in the transaction list or not.</source>
+        <translation>cryptocoin adresinin işlem listesinde gösterilmesi veya gösterilmemesi</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1315,8 +1315,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting neblio.</source>
-        <translation>Bu ayar, neblio&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
+        <source>This setting will take effect after restarting cryptocoin.</source>
+        <translation>Bu ayar, cryptocoin&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1334,8 +1334,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the neblio network after a connection is established, but this process has not completed yet.</source>
-        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak neblio ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the cryptocoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak cryptocoin ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1550,8 +1550,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the neblio-Qt help message to get a list with possible neblio command-line options.</source>
-        <translation>Muhtemel neblio komut satırı seçeneklerinin bir listesini getirmek için neblio-Qt yardım mesajını göster</translation>
+        <source>Show the cryptocoin-Qt help message to get a list with possible cryptocoin command-line options.</source>
+        <translation>Muhtemel cryptocoin komut satırı seçeneklerinin bir listesini getirmek için cryptocoin-Qt yardım mesajını göster</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1570,13 +1570,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>neblio - Debug window</source>
-        <translation>neblio - Hata ayıklama penceresi</translation>
+        <source>cryptocoin - Debug window</source>
+        <translation>cryptocoin - Hata ayıklama penceresi</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>neblio Core</source>
-        <translation>neblio Core</translation>
+        <source>cryptocoin Core</source>
+        <translation>cryptocoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1585,8 +1585,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the neblio debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>neblio hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
+        <source>Open the cryptocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>cryptocoin hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1595,8 +1595,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the neblio RPC console.</source>
-        <translation>neblio RPC konsoluna hoş geldiniz.</translation>
+        <source>Welcome to the cryptocoin RPC console.</source>
+        <translation>cryptocoin RPC konsoluna hoş geldiniz.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1754,8 +1754,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a neblio address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir neblio adresi gir (örn: 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a cryptocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir cryptocoin adresi gir (örn: 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1854,8 +1854,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid neblio address</source>
-        <translation>UYARI: Geçersiz neblio adresi</translation>
+        <source>WARNING: Invalid cryptocoin address</source>
+        <translation>UYARI: Geçersiz cryptocoin adresi</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1928,8 +1928,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a neblio address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir neblio adresi girin (örn: 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a cryptocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir cryptocoin adresi girin (örn: 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1989,8 +1989,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this neblio address</source>
-        <translation>Bu neblio adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
+        <source>Sign the message to prove you own this cryptocoin address</source>
+        <translation>Bu cryptocoin adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2021,8 +2021,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified neblio address</source>
-        <translation>Mesajın, belirtilen neblio adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify the message to ensure it was signed with the specified cryptocoin address</source>
+        <translation>Mesajın, belirtilen cryptocoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a neblio address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir neblio adresi girin (örn: 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a cryptocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir cryptocoin adresi girin (örn: 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2042,8 +2042,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter neblio signature</source>
-        <translation>neblio imzası gir</translation>
+        <source>Enter cryptocoin signature</source>
+        <translation>cryptocoin imzası gir</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2613,8 +2613,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>neblio version</source>
-        <translation>neblio versiyonu</translation>
+        <source>cryptocoin version</source>
+        <translation>cryptocoin versiyonu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2623,8 +2623,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or nebliod</source>
-        <translation>-sunucu veya nebliod&apos;ye komut gönder</translation>
+        <source>Send command to -server or cryptocoind</source>
+        <translation>-sunucu veya cryptocoind&apos;ye komut gönder</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2643,13 +2643,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: neblio.conf)</source>
-        <translation>Konfigürasyon dosyasını belirt (varsayılan: neblio.conf)</translation>
+        <source>Specify configuration file (default: cryptocoin.conf)</source>
+        <translation>Konfigürasyon dosyasını belirt (varsayılan: cryptocoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: nebliod.pid)</source>
-        <translation>pid dosyasını belirt (varsayılan: neblio.pid)</translation>
+        <source>Specify pid file (default: cryptocoind.pid)</source>
+        <translation>pid dosyasını belirt (varsayılan: cryptocoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2798,8 +2798,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong neblio will not work properly.</source>
-        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, neblio düzgün çalışmayacaktır.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong cryptocoin will not work properly.</source>
+        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, cryptocoin düzgün çalışmayacaktır.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2988,24 +2988,24 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=nebliorpc
+rpcuser=cryptocoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;neblio Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;cryptocoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, konfigürasyon dosyasında bir rpcpassword belirlemelisiniz:
  %s
 Aşağıdaki rastgele parolayı kullanmanız tavsiye edilir:
-rpcuser=nebliorpc
+rpcuser=cryptocoinrpc
 rpcpassword=%s
 (bu parolayı hatırlamanız gerekmemektedir)
 Kullanıcı adı ve parola aynı OLMAMALIDIR.
 Dosya mevcut değilse, dosyayı sadece-kullanıcı-okuyabilir dosya izniyle yaratınız.
 alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildirilir;
-örneğin: alertnotify=echo %%s | mail -s &quot;neblio Uyarısı&quot; admin@foo.com
+örneğin: alertnotify=echo %%s | mail -s &quot;cryptocoin Uyarısı&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3125,12 +3125,12 @@ alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildi
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  neblio is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  cryptocoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>neblio</source>
+        <source>cryptocoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3165,12 +3165,12 @@ alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildi
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of neblio</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of cryptocoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart neblio to complete</source>
+        <source>Wallet needed to be rewritten: restart cryptocoin to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3240,7 +3240,7 @@ alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildi
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. neblio is probably already running.</source>
+        <source>Unable to bind to %s on this computer. cryptocoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

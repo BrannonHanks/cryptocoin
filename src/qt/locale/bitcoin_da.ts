@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About neblio</source>
-        <translation>Om neblio</translation>
+        <source>About cryptocoin</source>
+        <translation>Om cryptocoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;neblio&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;neblio&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;cryptocoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;cryptocoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2017 The Neblio developers</source>
+Copyright © 2017 The CryptoCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2017 The Neblio developers</translation>
+Copyright © 2017 The CryptoCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your neblio addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dette er dine neblio adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
+        <source>These are your cryptocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dette er dine cryptocoin adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a neblio address</source>
-        <translation>Signerer en meddelelse for at bevise du ejer en neblio adresse</translation>
+        <source>Sign a message to prove you own a cryptocoin address</source>
+        <translation>Signerer en meddelelse for at bevise du ejer en cryptocoin adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified neblio address</source>
-        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret neblio adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified cryptocoin address</source>
+        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret cryptocoin adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>neblio will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tokens from being stolen by malware infecting your computer.</source>
-        <translation>neblio lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
+        <source>cryptocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tokens from being stolen by malware infecting your computer.</source>
+        <translation>cryptocoin lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about neblio</source>
-        <translation>Vis oplysninger om neblio</translation>
+        <source>Show information about cryptocoin</source>
+        <translation>Vis oplysninger om cryptocoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-62"/>
-        <source>Send tokens to a neblio address</source>
-        <translation>Send mønter til en neblio adresse</translation>
+        <source>Send tokens to a cryptocoin address</source>
+        <translation>Send mønter til en cryptocoin adresse</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for neblio</source>
-        <translation>Ændre indstillingsmuligheder for neblio</translation>
+        <source>Modify configuration options for cryptocoin</source>
+        <translation>Ændre indstillingsmuligheder for cryptocoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-200"/>
-        <source>neblio</source>
-        <translation>neblio</translation>
+        <source>cryptocoin</source>
+        <translation>cryptocoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About neblio</source>
-        <translation>&amp;Om neblio</translation>
+        <source>&amp;About cryptocoin</source>
+        <translation>&amp;Om cryptocoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>neblio client</source>
-        <translation>neblio klient</translation>
+        <source>cryptocoin client</source>
+        <translation>cryptocoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to neblio network</source>
-        <translation><numerusform>%n aktiv forbindelse til neblio netværk</numerusform><numerusform>%n aktive forbindelser til neblio netværk</numerusform></translation>
+        <source>%n active connection(s) to cryptocoin network</source>
+        <translation><numerusform>%n aktiv forbindelse til cryptocoin netværk</numerusform><numerusform>%n aktive forbindelser til cryptocoin netværk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adresse: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid neblio address or malformed URI parameters.</source>
-        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig neblio adresse eller misdannede URI parametre.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid cryptocoin address or malformed URI parameters.</source>
+        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig cryptocoin adresse eller misdannede URI parametre.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,7 +719,7 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. neblio can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. cryptocoin can no longer continue safely and will quit.</source>
         <translation>Der opstod en fejl under forsøg på at gemme dataene i tegnebogen til den nye placering.</translation>
     </message>
 </context>
@@ -1053,8 +1053,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid neblio address.</source>
-        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig neblio adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid cryptocoin address.</source>
+        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig cryptocoin adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>neblio-Qt</source>
-        <translation>neblio-Qt</translation>
+        <source>cryptocoin-Qt</source>
+        <translation>cryptocoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start neblio after logging in to the system.</source>
-        <translation>Automatisk start neblio efter at have logget ind på systemet.</translation>
+        <source>Automatically start cryptocoin after logging in to the system.</source>
+        <translation>Automatisk start cryptocoin efter at have logget ind på systemet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start neblio on system login</source>
-        <translation>&amp;Start neblio ved systemets login</translation>
+        <source>&amp;Start cryptocoin on system login</source>
+        <translation>&amp;Start cryptocoin ved systemets login</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the neblio client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisk åbne neblio klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
+        <source>Automatically open the cryptocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisk åbne cryptocoin klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the neblio network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Opret forbindelse til neblio netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
+        <source>Connect to the cryptocoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Opret forbindelse til cryptocoin netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting neblio.</source>
-        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af neblio tegnebog.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting cryptocoin.</source>
+        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af cryptocoin tegnebog.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show neblio addresses in the transaction list or not.</source>
-        <translation>Få vist neblio adresser på listen over transaktioner eller ej.</translation>
+        <source>Whether to show cryptocoin addresses in the transaction list or not.</source>
+        <translation>Få vist cryptocoin adresser på listen over transaktioner eller ej.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting neblio.</source>
-        <translation>Denne indstilling vil træde i kraft efter genstart af neblio.</translation>
+        <source>This setting will take effect after restarting cryptocoin.</source>
+        <translation>Denne indstilling vil træde i kraft efter genstart af cryptocoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the neblio network after a connection is established, but this process has not completed yet.</source>
-        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med neblio netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the cryptocoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med cryptocoin netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the neblio-Qt help message to get a list with possible neblio command-line options.</source>
-        <translation>Vis neblio-Qt hjælpe besked for at få en liste med mulige neblio kommandolinjeparametre.</translation>
+        <source>Show the cryptocoin-Qt help message to get a list with possible cryptocoin command-line options.</source>
+        <translation>Vis cryptocoin-Qt hjælpe besked for at få en liste med mulige cryptocoin kommandolinjeparametre.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>neblio - Debug window</source>
-        <translation>neblio - Debug vindue</translation>
+        <source>cryptocoin - Debug window</source>
+        <translation>cryptocoin - Debug vindue</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>neblio Core</source>
-        <translation>neblio Kerne</translation>
+        <source>cryptocoin Core</source>
+        <translation>cryptocoin Kerne</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the neblio debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn neblio debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
+        <source>Open the cryptocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åbn cryptocoin debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the neblio RPC console.</source>
-        <translation>Velkommen til neblio RPC-konsol.</translation>
+        <source>Welcome to the cryptocoin RPC console.</source>
+        <translation>Velkommen til cryptocoin RPC-konsol.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a neblio address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Indtast en neblio-adresse (f.eks 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a cryptocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Indtast en cryptocoin-adresse (f.eks 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid neblio address</source>
-        <translation>ADVARSEL: Ugyldig neblio adresse</translation>
+        <source>WARNING: Invalid cryptocoin address</source>
+        <translation>ADVARSEL: Ugyldig cryptocoin adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1930,8 +1930,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a neblio address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Indtast en neblio-adresse (f.eks 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a cryptocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Indtast en cryptocoin-adresse (f.eks 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1991,8 +1991,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this neblio address</source>
-        <translation>Underskriv brevet for at bevise du ejer denne neblio adresse</translation>
+        <source>Sign the message to prove you own this cryptocoin address</source>
+        <translation>Underskriv brevet for at bevise du ejer denne cryptocoin adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified neblio address</source>
-        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne neblio adresse</translation>
+        <source>Verify the message to ensure it was signed with the specified cryptocoin address</source>
+        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne cryptocoin adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a neblio address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Indtast en neblio-adresse (f.eks 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a cryptocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Indtast en cryptocoin-adresse (f.eks 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter neblio signature</source>
-        <translation>Indtast neblio underskrift</translation>
+        <source>Enter cryptocoin signature</source>
+        <translation>Indtast cryptocoin underskrift</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>neblio version</source>
-        <translation>neblio version</translation>
+        <source>cryptocoin version</source>
+        <translation>cryptocoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2625,8 +2625,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or nebliod</source>
-        <translation>Send kommando til-server eller nebliod</translation>
+        <source>Send command to -server or cryptocoind</source>
+        <translation>Send kommando til-server eller cryptocoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: neblio.conf)</source>
-        <translation>Angiv konfigurationsfil (default: neblio.conf)</translation>
+        <source>Specify configuration file (default: cryptocoin.conf)</source>
+        <translation>Angiv konfigurationsfil (default: cryptocoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: nebliod.pid)</source>
-        <translation>Angiv pid fil (standard: nebliod.pid)</translation>
+        <source>Specify pid file (default: cryptocoind.pid)</source>
+        <translation>Angiv pid fil (standard: cryptocoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2800,8 +2800,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong neblio will not work properly.</source>
-        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil neblio ikke fungere korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong cryptocoin will not work properly.</source>
+        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil cryptocoin ikke fungere korrekt.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2990,24 +2990,24 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=nebliorpc
+rpcuser=cryptocoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;neblio Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;cryptocoin Alert&quot; admin@foo.com
 </source>
         <translation>% s, skal du indstille et rpcpassword i konfigurationsfilen:
 % s
 Det anbefales at bruge følgende tilfældig adgangskode:
-rpcuser = nebliorpc
+rpcuser = cryptocoinrpc
 rpcpassword =% s
 (du behøver ikke at huske denne adgangskode)
 Brugernavn og adgangskode må ikke være den samme.
 Hvis filen ikke findes, skal du oprette den med filtilladelser ejer-læsbar-kun.
 Det kan også anbefales at sætte alertnotify så du får besked om problemer;
-for eksempel: alertnotify = echo%% s | mail-s &quot;neblio Alert&quot; admin@foo.com
+for eksempel: alertnotify = echo%% s | mail-s &quot;cryptocoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3127,13 +3127,13 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;neblio Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  neblio is probably already running.</source>
-        <translation>Kan ikke få en lås på data mappe% s. neblio kører sikkert allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s.  cryptocoin is probably already running.</source>
+        <translation>Kan ikke få en lås på data mappe% s. cryptocoin kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>neblio</source>
-        <translation>neblio</translation>
+        <source>cryptocoin</source>
+        <translation>cryptocoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3167,13 +3167,13 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;neblio Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of neblio</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af neblio</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of cryptocoin</source>
+        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af cryptocoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart neblio to complete</source>
-        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart neblio for fuldføre</translation>
+        <source>Wallet needed to be rewritten: restart cryptocoin to complete</source>
+        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart cryptocoin for fuldføre</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3242,8 +3242,8 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;neblio Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. neblio is probably already running.</source>
-        <translation>Kunne ikke binde sig til% s på denne computer. neblio kører sikkert allerede.</translation>
+        <source>Unable to bind to %s on this computer. cryptocoin is probably already running.</source>
+        <translation>Kunne ikke binde sig til% s på denne computer. cryptocoin kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-97"/>

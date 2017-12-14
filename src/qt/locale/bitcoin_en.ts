@@ -5,19 +5,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About neblio</source>
-        <translation>About neblio</translation>
+        <source>About cryptocoin</source>
+        <translation>About cryptocoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;neblio&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;neblio&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;cryptocoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;cryptocoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2017 The Neblio developers</source>
+Copyright © 2017 The CryptoCoin developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -65,8 +65,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your neblio addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your neblio addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your cryptocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your cryptocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a neblio address</source>
-        <translation>Sign a message to prove you own a neblio address</translation>
+        <source>Sign a message to prove you own a cryptocoin address</source>
+        <translation>Sign a message to prove you own a cryptocoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified neblio address</source>
-        <translation>Verify a message to ensure it was signed with a specified neblio address</translation>
+        <source>Verify a message to ensure it was signed with a specified cryptocoin address</source>
+        <translation>Verify a message to ensure it was signed with a specified cryptocoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>neblio will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tokens from being stolen by malware infecting your computer.</source>
-        <translation>neblio will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tokens from being stolen by malware infecting your computer.</translation>
+        <source>cryptocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tokens from being stolen by malware infecting your computer.</source>
+        <translation>cryptocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tokens from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about neblio</source>
-        <translation>Show information about neblio</translation>
+        <source>Show information about cryptocoin</source>
+        <translation>Show information about cryptocoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -430,13 +430,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send tokens to a neblio address</source>
-        <translation>Send tokens to a neblio address</translation>
+        <source>Send tokens to a cryptocoin address</source>
+        <translation>Send tokens to a cryptocoin address</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for neblio</source>
-        <translation>Modify configuration options for neblio</translation>
+        <source>Modify configuration options for cryptocoin</source>
+        <translation>Modify configuration options for cryptocoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -475,8 +475,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>neblio</source>
-        <translation>neblio</translation>
+        <source>cryptocoin</source>
+        <translation>cryptocoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -485,8 +485,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About neblio</source>
-        <translation>&amp;About neblio</translation>
+        <source>&amp;About cryptocoin</source>
+        <translation>&amp;About cryptocoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -542,15 +542,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>neblio client</source>
-        <translation>neblio client</translation>
+        <source>cryptocoin client</source>
+        <translation>cryptocoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to neblio network</source>
+        <source>%n active connection(s) to cryptocoin network</source>
         <translation>
-            <numerusform>%n active connection to neblio network</numerusform>
-            <numerusform>%n active connections to neblio network</numerusform>
+            <numerusform>%n active connection to cryptocoin network</numerusform>
+            <numerusform>%n active connections to cryptocoin network</numerusform>
         </translation>
     </message>
     <message>
@@ -677,8 +677,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid neblio address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid neblio address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid cryptocoin address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid cryptocoin address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -749,8 +749,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. neblio can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. neblio can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. cryptocoin can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. cryptocoin can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -1069,8 +1069,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid neblio address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid neblio address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid cryptocoin address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid cryptocoin address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1088,8 +1088,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>neblio-Qt</source>
-        <translation>neblio-Qt</translation>
+        <source>cryptocoin-Qt</source>
+        <translation>cryptocoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1161,13 +1161,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start neblio after logging in to the system.</source>
-        <translation>Automatically start neblio after logging in to the system.</translation>
+        <source>Automatically start cryptocoin after logging in to the system.</source>
+        <translation>Automatically start cryptocoin after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start neblio on system login</source>
-        <translation>&amp;Start neblio on system login</translation>
+        <source>&amp;Start cryptocoin on system login</source>
+        <translation>&amp;Start cryptocoin on system login</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1186,8 +1186,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the neblio client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the neblio client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the cryptocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the cryptocoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1196,8 +1196,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the neblio network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connect to the neblio network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
+        <source>Connect to the cryptocoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connect to the cryptocoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1271,8 +1271,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting neblio.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting neblio.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting cryptocoin.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting cryptocoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1286,8 +1286,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show neblio addresses in the transaction list or not.</source>
-        <translation>Whether to show neblio addresses in the transaction list or not.</translation>
+        <source>Whether to show cryptocoin addresses in the transaction list or not.</source>
+        <translation>Whether to show cryptocoin addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1333,8 +1333,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting neblio.</source>
-        <translation>This setting will take effect after restarting neblio.</translation>
+        <source>This setting will take effect after restarting cryptocoin.</source>
+        <translation>This setting will take effect after restarting cryptocoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1352,8 +1352,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the neblio network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the neblio network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the cryptocoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the cryptocoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1568,8 +1568,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the neblio-Qt help message to get a list with possible neblio command-line options.</source>
-        <translation>Show the neblio-Qt help message to get a list with possible neblio command-line options.</translation>
+        <source>Show the cryptocoin-Qt help message to get a list with possible cryptocoin command-line options.</source>
+        <translation>Show the cryptocoin-Qt help message to get a list with possible cryptocoin command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1588,13 +1588,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>neblio - Debug window</source>
-        <translation>neblio - Debug window</translation>
+        <source>cryptocoin - Debug window</source>
+        <translation>cryptocoin - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>neblio Core</source>
-        <translation>neblio Core</translation>
+        <source>cryptocoin Core</source>
+        <translation>cryptocoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1603,8 +1603,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the neblio debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the neblio debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the cryptocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the cryptocoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1613,8 +1613,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the neblio RPC console.</source>
-        <translation>Welcome to the neblio RPC console.</translation>
+        <source>Welcome to the cryptocoin RPC console.</source>
+        <translation>Welcome to the cryptocoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1772,8 +1772,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a neblio address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Enter a neblio address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a cryptocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Enter a cryptocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1872,7 +1872,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid neblio address</source>
+        <source>WARNING: Invalid cryptocoin address</source>
         <translation></translation>
     </message>
     <message>
@@ -1946,8 +1946,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a neblio address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Enter a neblio address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a cryptocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Enter a cryptocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2007,8 +2007,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this neblio address</source>
-        <translation>Sign the message to prove you own this neblio address</translation>
+        <source>Sign the message to prove you own this cryptocoin address</source>
+        <translation>Sign the message to prove you own this cryptocoin address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2039,8 +2039,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified neblio address</source>
-        <translation>Verify the message to ensure it was signed with the specified neblio address</translation>
+        <source>Verify the message to ensure it was signed with the specified cryptocoin address</source>
+        <translation>Verify the message to ensure it was signed with the specified cryptocoin address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2050,8 +2050,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a neblio address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Enter a neblio address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a cryptocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Enter a cryptocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2060,8 +2060,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter neblio signature</source>
-        <translation>Enter neblio signature</translation>
+        <source>Enter cryptocoin signature</source>
+        <translation>Enter cryptocoin signature</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2643,8 +2643,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>neblio version</source>
-        <translation>neblio version</translation>
+        <source>cryptocoin version</source>
+        <translation>cryptocoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2653,8 +2653,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or nebliod</source>
-        <translation>Send command to -server or nebliod</translation>
+        <source>Send command to -server or cryptocoind</source>
+        <translation>Send command to -server or cryptocoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2673,13 +2673,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: neblio.conf)</source>
-        <translation>Specify configuration file (default: neblio.conf)</translation>
+        <source>Specify configuration file (default: cryptocoin.conf)</source>
+        <translation>Specify configuration file (default: cryptocoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: nebliod.pid)</source>
-        <translation>Specify pid file (default: nebliod.pid)</translation>
+        <source>Specify pid file (default: cryptocoind.pid)</source>
+        <translation>Specify pid file (default: cryptocoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2828,8 +2828,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong neblio will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong neblio will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong cryptocoin will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong cryptocoin will not work properly.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3017,13 +3017,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=nebliorpc
+rpcuser=cryptocoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;neblio Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;cryptocoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -3144,13 +3144,13 @@ for example: alertnotify=echo %%s | mail -s &quot;neblio Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  neblio is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s.  neblio is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s.  cryptocoin is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s.  cryptocoin is probably already running.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>neblio</source>
-        <translation>neblio</translation>
+        <source>cryptocoin</source>
+        <translation>cryptocoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3184,13 +3184,13 @@ for example: alertnotify=echo %%s | mail -s &quot;neblio Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of neblio</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of neblio</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of cryptocoin</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of cryptocoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart neblio to complete</source>
-        <translation>Wallet needed to be rewritten: restart neblio to complete</translation>
+        <source>Wallet needed to be rewritten: restart cryptocoin to complete</source>
+        <translation>Wallet needed to be rewritten: restart cryptocoin to complete</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3259,8 +3259,8 @@ for example: alertnotify=echo %%s | mail -s &quot;neblio Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. neblio is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. neblio is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. cryptocoin is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. cryptocoin is probably already running.</translation>
     </message>
     <message>
         <location line="-97"/>

@@ -1,9 +1,9 @@
 src/*.exe
-src/neblio
-src/nebliod
-src/test_neblio
+src/cryptocoin
+src/cryptocoind
+src/test_cryptocoin
 src/build.h
-src/qt/neblio-qt.*
+src/qt/cryptocoin-qt.*
 src/leveldb/build_config.mk
 .*.swp
 *.*~*
@@ -15,12 +15,12 @@ src/leveldb/build_config.mk
 *.Debug
 *.Release
 debug
-.neblio
+.cryptocoin
 
 #compilation and Qt preprocessor part
 *.qm
 Makefile
-neblio-Qt.app
+cryptocoin-Qt.app
 #resources cpp
 qrc_*.cpp
 

@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About neblio</source>
-        <translation>O neblioe</translation>
+        <source>About cryptocoin</source>
+        <translation>O cryptocoine</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;neblio&lt;/b&gt; version</source>
-        <translation>verzia &lt;b&gt;nebliou&lt;/b&gt;</translation>
+        <source>&lt;b&gt;cryptocoin&lt;/b&gt; version</source>
+        <translation>verzia &lt;b&gt;cryptocoinu&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2017 The Neblio developers</source>
+Copyright © 2017 The CryptoCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2017 The Neblio developers</translation>
+Copyright © 2017 The CryptoCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your neblio addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše neblio adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
+        <source>These are your cryptocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše cryptocoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a neblio address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto neblio adresu</translation>
+        <source>Sign a message to prove you own a cryptocoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto cryptocoin adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified neblio address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou neblio adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified cryptocoin address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou cryptocoin adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>neblio will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tokens from being stolen by malware infecting your computer.</source>
-        <translation>neblio sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>cryptocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tokens from being stolen by malware infecting your computer.</source>
+        <translation>cryptocoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about neblio</source>
-        <translation>Zobraziť informácie o neblio</translation>
+        <source>Show information about cryptocoin</source>
+        <translation>Zobraziť informácie o cryptocoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-62"/>
-        <source>Send tokens to a neblio address</source>
-        <translation>Poslať mince na neblio adresu</translation>
+        <source>Send tokens to a cryptocoin address</source>
+        <translation>Poslať mince na cryptocoin adresu</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for neblio</source>
-        <translation>Upraviť možnosti konfigurácie pre neblio</translation>
+        <source>Modify configuration options for cryptocoin</source>
+        <translation>Upraviť možnosti konfigurácie pre cryptocoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-200"/>
-        <source>neblio</source>
-        <translation>neblio</translation>
+        <source>cryptocoin</source>
+        <translation>cryptocoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About neblio</source>
-        <translation>&amp;O neblio</translation>
+        <source>&amp;About cryptocoin</source>
+        <translation>&amp;O cryptocoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>neblio client</source>
-        <translation>neblio klient</translation>
+        <source>cryptocoin client</source>
+        <translation>cryptocoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to neblio network</source>
-        <translation><numerusform>%n aktívne spojenie s neblio sieťov</numerusform><numerusform>%n aktívnych spojení s neblio sieťov</numerusform><numerusform>%n aktívnych spojení s neblio sieťou</numerusform></translation>
+        <source>%n active connection(s) to cryptocoin network</source>
+        <translation><numerusform>%n aktívne spojenie s cryptocoin sieťov</numerusform><numerusform>%n aktívnych spojení s cryptocoin sieťov</numerusform><numerusform>%n aktívnych spojení s cryptocoin sieťou</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -658,8 +658,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid neblio address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou neblio adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid cryptocoin address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou cryptocoin adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -718,8 +718,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. neblio can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. neblio už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. cryptocoin can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. cryptocoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1052,8 +1052,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid neblio address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou neblio adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid cryptocoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou cryptocoin adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1071,8 +1071,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>neblio-Qt</source>
-        <translation>neblio-Qt</translation>
+        <source>cryptocoin-Qt</source>
+        <translation>cryptocoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1144,13 +1144,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start neblio after logging in to the system.</source>
-        <translation>Automaticky spustiť neblio po prihlásení sa do systému.</translation>
+        <source>Automatically start cryptocoin after logging in to the system.</source>
+        <translation>Automaticky spustiť cryptocoin po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start neblio on system login</source>
-        <translation>&amp;Spustiť neblio pri prihlásení do systému</translation>
+        <source>&amp;Start cryptocoin on system login</source>
+        <translation>&amp;Spustiť cryptocoin pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1169,8 +1169,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the neblio client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta neblio na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the cryptocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta cryptocoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1179,8 +1179,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the neblio network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti neblio cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the cryptocoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti cryptocoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1254,8 +1254,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting neblio.</source>
-        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní neblio.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting cryptocoin.</source>
+        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní cryptocoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1269,8 +1269,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show neblio addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť neblio adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show cryptocoin addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť cryptocoin adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1316,8 +1316,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting neblio.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní neblio.</translation>
+        <source>This setting will take effect after restarting cryptocoin.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní cryptocoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the neblio network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou neblio po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the cryptocoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou cryptocoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1551,8 +1551,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the neblio-Qt help message to get a list with possible neblio command-line options.</source>
-        <translation>Zobraziť neblio-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku neblio.</translation>
+        <source>Show the cryptocoin-Qt help message to get a list with possible cryptocoin command-line options.</source>
+        <translation>Zobraziť cryptocoin-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku cryptocoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1571,13 +1571,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>neblio - Debug window</source>
-        <translation>neblio - Ladiace okno</translation>
+        <source>cryptocoin - Debug window</source>
+        <translation>cryptocoin - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>neblio Core</source>
-        <translation>Jadro neblio</translation>
+        <source>cryptocoin Core</source>
+        <translation>Jadro cryptocoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1586,8 +1586,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the neblio debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte neblio súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
+        <source>Open the cryptocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte cryptocoin súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1596,8 +1596,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the neblio RPC console.</source>
-        <translation>Vitajte v konzole neblio RPC.</translation>
+        <source>Welcome to the cryptocoin RPC console.</source>
+        <translation>Vitajte v konzole cryptocoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1755,8 +1755,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a neblio address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte neblio adresu (napr. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a cryptocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte cryptocoin adresu (napr. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1855,8 +1855,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid neblio address</source>
-        <translation>UPOZORNENIE: Neplatná neblio adresa</translation>
+        <source>WARNING: Invalid cryptocoin address</source>
+        <translation>UPOZORNENIE: Neplatná cryptocoin adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1929,8 +1929,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a neblio address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte neblio adresu (napr. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a cryptocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte cryptocoin adresu (napr. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1990,8 +1990,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this neblio address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto neblio adresu</translation>
+        <source>Sign the message to prove you own this cryptocoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto cryptocoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2022,8 +2022,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified neblio address</source>
-        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou neblio adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified cryptocoin address</source>
+        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou cryptocoin adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a neblio address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte neblio adresu (napr. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a cryptocoin address (e.g. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte cryptocoin adresu (napr. 8dpZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2043,8 +2043,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter neblio signature</source>
-        <translation>Zadajte neblio podpis</translation>
+        <source>Enter cryptocoin signature</source>
+        <translation>Zadajte cryptocoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2614,8 +2614,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>neblio version</source>
-        <translation>neblio verzia</translation>
+        <source>cryptocoin version</source>
+        <translation>cryptocoin verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2624,8 +2624,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or nebliod</source>
-        <translation>Pošli príkaz na -server alebo nebliod</translation>
+        <source>Send command to -server or cryptocoind</source>
+        <translation>Pošli príkaz na -server alebo cryptocoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2644,13 +2644,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: neblio.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: neblio.conf)</translation>
+        <source>Specify configuration file (default: cryptocoin.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: cryptocoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: nebliod.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: nebliod.pid)</translation>
+        <source>Specify pid file (default: cryptocoind.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: cryptocoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2799,8 +2799,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong neblio will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny neblio nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong cryptocoin will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny cryptocoin nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2989,24 +2989,24 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=nebliorpc
+rpcuser=cryptocoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;neblio Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;cryptocoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
 Je odporúčané použiť nasledujúce náhodné heslo:
-rpcuser=nebliorpc
+rpcuser=cryptocoinrpc
 rpcpassword=%s
 (Nemusíte si pamätať toto heslo)
 Užívateľské meno a heslo nesmú byť rovnaké.
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;neblio Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;cryptocoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -3125,13 +3125,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;neblio Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  neblio is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. neblio už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  cryptocoin is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. cryptocoin už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>neblio</source>
-        <translation>neblio</translation>
+        <source>cryptocoin</source>
+        <translation>cryptocoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3165,13 +3165,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;neblio Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of neblio</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu neblio</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of cryptocoin</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu cryptocoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart neblio to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte neblio k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart cryptocoin to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte cryptocoin k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3240,8 +3240,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;neblio Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. neblio is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. neblio je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. cryptocoin is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. cryptocoin je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>
