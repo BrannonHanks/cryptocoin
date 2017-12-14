@@ -42,9 +42,9 @@ CBigNum bnProofOfWorkLimitTestNet(~uint256(0) >> 1);
 // Set PoS difficulty to standard
 CBigNum bnProofOfStakeLimit(~uint256(0) >> 20);
 
-unsigned int nTargetSpacing = 2 * 60; //Block spacing 2 minutes
-unsigned int nStakeMinAge = 24 * 60 * 60; //Minimum stake age
-unsigned int nStakeMaxAge = 7 * 24 * 60 * 60; //Maximum stake age 7 days
+unsigned int nTargetSpacing = 3 * 30; //Block spacing 2 minutes :Changed
+unsigned int nStakeMinAge = 20 * 60 * 60; //Minimum stake age :Changed
+unsigned int nStakeMaxAge = 5 * 24 * 60 * 60; //Maximum stake age 7 days :Changed
 unsigned int nModifierInterval = 10 * 60; // time to elapse before new modifier is computed
 
 //static const int64_t nTargetTimespan = 16 * 60;  // 16 mins
